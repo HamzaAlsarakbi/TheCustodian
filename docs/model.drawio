@@ -1,1 +1,292 @@
-<mxfile host="Electron" modified="2023-08-19T11:14:17.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.8.16 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36" etag="4qEJEKsg0cLi8Ki5IaTp" version="20.8.16" type="device"><diagram name="Page-1" id="MXJoyOq33z3AeeRWUCVQ">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</diagram></mxfile>
+<mxfile host="Electron" modified="2023-08-21T00:28:57.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="jMgao0lOOUwJvhkrlibu" version="21.6.8" type="device">
+  <diagram name="Page-1" id="MXJoyOq33z3AeeRWUCVQ">
+    <mxGraphModel dx="1719" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-1" value="Plan" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="-780" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-2" value="- name: String&#xa;- last_modified: DateTime&lt;Local&gt;&#xa;- accounts: AccountsManager&#xa;- notifications: NotificationsManager&#xa;- tags: TagsManager" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-1" vertex="1">
+          <mxGeometry y="20" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-1" vertex="1">
+          <mxGeometry y="100" width="270" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-4" value="+ get_total_savings(): Money&#xa;+ get_total_chequings(): Money" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-1" vertex="1">
+          <mxGeometry y="108" width="270" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-5" target="jYdG3Akt0IeGUaFJMhiI-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-5" target="jYdG3Akt0IeGUaFJMhiI-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-5" target="jYdG3Akt0IeGUaFJMhiI-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-5" value="ChequingAccount" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="170" width="220" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-6" value="- balance: Money&#xa;- currency: Currency&#xa;- max_balance: Option&lt;Money&gt;&#xa;- id: u32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-5" vertex="1">
+          <mxGeometry y="20" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-5" vertex="1">
+          <mxGeometry y="120" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-8" value="+++" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-5" vertex="1">
+          <mxGeometry y="128" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-9" target="jYdG3Akt0IeGUaFJMhiI-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-9" value="Money" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="400" width="160" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-10" value="- major: i32 (dollars)&#xa;- minor: u8 (cents, 0...99)&#xa;- currency: Currency" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-9" vertex="1">
+          <mxGeometry y="20" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-9" vertex="1">
+          <mxGeometry y="80" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-12" value="+ eq()&#xa;+ add()&#xa;+ sub()&#xa;+ mult()&#xa;+ div()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-9" vertex="1">
+          <mxGeometry y="88" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-17" value="Currency" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="620" width="380" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-18" value="USD, CAD, SYP, JOD, EUR, LBP, GBP, QAR&#xa;Custom(symbol: String, full_name: String, short_name: String) " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-17" vertex="1">
+          <mxGeometry y="20" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-19" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-17" vertex="1">
+          <mxGeometry y="70" width="380" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-28" value="SavingsType (enum)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="400" width="260" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-29" value="- Groceries, Car, House, Vacation, Mehr,&#xa;Clothing, Entertainment, EmergencyFund, &#xa;Retirement, Investment, Education, Food&#xa;Children, Custom(name: String)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-28" vertex="1">
+          <mxGeometry y="20" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-30" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-28" vertex="1">
+          <mxGeometry y="90" width="260" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-33" value="Account (trait)" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="90" width="440" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-35" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-33" vertex="1">
+          <mxGeometry y="20" width="440" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-36" value="+ withdraw(amount: &amp;Money, statement: &amp;str, tags: Vec&lt;u32&gt;: Withdrawal&#xa;+ deposit(amount: &amp;Money, statement: &amp;str, tags: Vec&lt;u32&gt;): Withdrawal&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-33" vertex="1">
+          <mxGeometry y="28" width="440" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-37" target="jYdG3Akt0IeGUaFJMhiI-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-37" target="jYdG3Akt0IeGUaFJMhiI-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-37" target="jYdG3Akt0IeGUaFJMhiI-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-37" value="SavingsAccount" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="170" width="220" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-38" value="- balance: Money&#xa;- currency: Currency&#xa;- max_balance: Option&lt;Money&gt;&#xa;- min_balance: Option&lt;Money&gt;&#xa;- type: SavingsType&#xa;- id: u32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-37" vertex="1">
+          <mxGeometry y="20" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-39" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-37" vertex="1">
+          <mxGeometry y="120" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-40" value="+++" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-37" vertex="1">
+          <mxGeometry y="128" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-45" value="SaveMapping" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="-410" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-46" value="- deposit_account: u32&#xa;- savings_accounts: HashMap&lt;u32, u8&gt;&#xa;// u8 for all numbers 0...100, divided by 100&#xa;// 20 -&gt; 0.20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-45" vertex="1">
+          <mxGeometry y="20" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-47" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-45" vertex="1">
+          <mxGeometry y="90" width="320" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-48" value="+ get_total_savings(): Money&#xa;+ get_total_chequings(): Money" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-45" vertex="1">
+          <mxGeometry y="98" width="320" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-49" target="jYdG3Akt0IeGUaFJMhiI-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-49" value="Notification" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="-290" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-50" value="- header: String&#xa;- body: String,&#xa;- icon: IconIdentifier&#xa;- id: u32&#xa;- read: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-49" vertex="1">
+          <mxGeometry y="20" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-51" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-49" vertex="1">
+          <mxGeometry y="100" width="270" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-52" value="+ set_read()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-49" vertex="1">
+          <mxGeometry y="108" width="270" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-53" value="NotificationIcons" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="-130" width="170" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-54" value="- Warning, Error, Tick" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-53" vertex="1">
+          <mxGeometry y="20" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-55" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-53" vertex="1">
+          <mxGeometry y="80" width="170" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-58" value="Notifications:&lt;br&gt;- Savings account {} has exceeded maximum balance&lt;br&gt;- Savings account {} is below the minimum balance&lt;br&gt;&lt;br&gt;Trend Notifications:&lt;br&gt;- There has been a change in your average expenses per month&lt;br&gt;- There has been a change in your average income per month" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-690" y="-141" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-59" target="jYdG3Akt0IeGUaFJMhiI-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-59" value="NotificationsManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="-440" width="350" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-60" value="- notifications: Vec&lt;Notification&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-59" vertex="1">
+          <mxGeometry y="20" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-61" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-59" vertex="1">
+          <mxGeometry y="40" width="350" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-62" value="+ push(title: &amp;str, body: &amp;str, icon: &amp;IconIdentifier): &amp;Notification&#xa;+ remove_notification(id: u64): bool&#xa;+ find(id: u32): Option&lt;&amp;Transaction&gt;&#xa;+ set_read(id: u32)&#xa;+ clear()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-59" vertex="1">
+          <mxGeometry y="48" width="350" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-66" target="jYdG3Akt0IeGUaFJMhiI-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-66" value="Transfer" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="-600" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-67" value="- amount: Money&#xa;- from: u32&#xa;- to: u32&#xa;-id: u32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-66" vertex="1">
+          <mxGeometry y="20" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-68" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-66" vertex="1">
+          <mxGeometry y="100" width="130" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-69" value="+++" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-66" vertex="1">
+          <mxGeometry y="108" width="130" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-71" target="jYdG3Akt0IeGUaFJMhiI-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-71" value="Deposit" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="-600" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-72" value="- amount: Money&#xa;- to: u32&#xa;- tags: TreeSet&lt;u32&gt;&#xa;-id: u32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-71" vertex="1">
+          <mxGeometry y="20" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-73" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-71" vertex="1">
+          <mxGeometry y="100" width="130" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-74" value="+++" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-71" vertex="1">
+          <mxGeometry y="108" width="130" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-75" target="jYdG3Akt0IeGUaFJMhiI-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-75" value="TransactionsManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="-1060" width="290" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-76" value="- transactions: Vec&lt;Box&lt;dyn Transaction&gt;&gt;&#xa;- saved_transactions: Vec&lt;Box&lt;dyn Transaction&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-75" vertex="1">
+          <mxGeometry y="20" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-77" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-75" vertex="1">
+          <mxGeometry y="60" width="290" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-78" value="+ count(): usize&#xa;+ find(id: u32): Option&lt;&amp;Transaction&gt;&#xa;+ edit_amount(id: u32, amount: &amp;Money): bool&#xa;+ add_tag(tag: u32): bool&#xa;+ remove_tag(tag: u32): bool&#xa;+ save(path: &amp;str): bool&#xa;+ remove_transaction(id: u32): bool&#xa;// remove_transaction should put money back in&#xa;  accounts (i.e. rming deposit should remove the &#xa;  money from the deposited account" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-75" vertex="1">
+          <mxGeometry y="68" width="290" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-79" value="Transaction (trait)" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="-790" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-81" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-79" vertex="1">
+          <mxGeometry y="20" width="270" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-82" value="+ get_id(): u32&#xa;+ edit_amount(amount: &amp;Money): bool&#xa;// edit_amount should try to find the account and&#xa;    update them accordingly&#xa;+ add_tag(tag: u32): bool&#xa;+ remove_tag(tag: u32): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-79" vertex="1">
+          <mxGeometry y="28" width="270" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-90" target="jYdG3Akt0IeGUaFJMhiI-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-90" value="Withdrawal" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="-600" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-91" value="- amount: Money&#xa;- from: u32&#xa;- statement: String&#xa;- tags: TreeSet&lt;u32&gt;&#xa;-id: u32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-90" vertex="1">
+          <mxGeometry y="20" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-92" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-90" vertex="1">
+          <mxGeometry y="100" width="130" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-93" value="+++" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-90" vertex="1">
+          <mxGeometry y="108" width="130" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" parent="1" source="jYdG3Akt0IeGUaFJMhiI-95" target="jYdG3Akt0IeGUaFJMhiI-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-95" value="TagsManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-315" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-96" value="- tags: Vec&lt;Arc&lt;Mutex&lt;Tag&gt;&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-95" vertex="1">
+          <mxGeometry y="20" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-97" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-95" vertex="1">
+          <mxGeometry y="40" width="240" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-98" value="+ add(name: String, icon: String): Tag&#xa;+ remove(id: u32)&#xa;+ find(id: u32): Option&lt;Tag&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-95" vertex="1">
+          <mxGeometry y="48" width="240" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-99" value="Tag" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="130" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-100" value="- name: String&#xa;- icon: String&#xa;- id: u32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-99" vertex="1">
+          <mxGeometry y="20" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-101" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-99" vertex="1">
+          <mxGeometry y="80" width="250" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-102" value="// constructor should copy icon to an&#xa;internal directory named &quot;[id].[extension]&quot;&#xa;+ rename(name: String): bool&#xa;+ set_icon(icon_path: String): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-99" vertex="1">
+          <mxGeometry y="88" width="250" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-103" value="Config Files:&lt;br&gt;|--&amp;gt; budgify/&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;|--&amp;gt; tags/&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;|--&amp;gt; tags.json&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;|--&amp;gt; icons/&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;|--&amp;gt; plans/&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;|--&amp;gt; plan.json&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;|--&amp;gt; transactions.json&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;|--&amp;gt; notifications.json&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;|--&amp;gt; accounts/&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;|--&amp;gt; chequing/&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;|--&amp;gt; [id]-chequing.json&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;|--&amp;gt; savings/&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;|--&amp;gt; [id]-savings.json" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="-650" width="250" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-110" value="Constants (file)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="-360" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-112" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-110" vertex="1">
+          <mxGeometry y="20" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-113" value="+ generate_id(): u32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-110" vertex="1">
+          <mxGeometry y="28" width="220" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-114" value="AccountsManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="-300" width="560" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-115" value="- chequing_accounts: Vec&lt;ChequingAccount&gt;&#xa;- savings_accounts: Vec&lt;SavingsAccount&gt;&#xa;- auto_save_mappings: Vec&lt;SaveMapping&gt;&#xa;- transactions: TransactionsManager" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-114" vertex="1">
+          <mxGeometry y="20" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-116" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-114" vertex="1">
+          <mxGeometry y="90" width="560" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-117" value="+ get_total_savings(): Money&#xa;+ get_total_chequings(): Money&#xa;+ move(from: u32, to: u32, )&#xa;+ withdraw(id: u32, statement: &amp;str, tags: Vec&lt;u32&gt;): Result&lt;&amp;Transaction, TransactionError&gt;&#xa;+ deposit(): Transaction&#xa;+ edit_transaction_amount(id: u32, new_amount: &amp;Money): Result&lt;&amp;Transaction, TransactionError&gt;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-114" vertex="1">
+          <mxGeometry y="98" width="560" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-118" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pre-defined tags:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Insurance&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Bills&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Food&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Parking&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Subscriptions&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Payroll&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- E-Transfer&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Tax Return&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-525" y="40" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-123" value="TransactionError (enum)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-660" y="-820" width="220" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-124" value="InsufficientFunds, AccountNotFound,&#xa;MaxBalanceReached,&#xa;..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jYdG3Akt0IeGUaFJMhiI-123" vertex="1">
+          <mxGeometry y="20" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYdG3Akt0IeGUaFJMhiI-125" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="jYdG3Akt0IeGUaFJMhiI-123" vertex="1">
+          <mxGeometry y="100" width="220" height="8" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
