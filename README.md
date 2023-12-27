@@ -1,38 +1,22 @@
-# create-svelte
+# AlAmeen
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+A program that manages all your personal finances, allows you to set budgeting
+goals and helps you achieve them.
 
-## Creating a project
+## Documentation
 
-If you're seeing this, you've probably already done this step. Congrats!
+Most of the documentation can be found in the `docs/` directory, UI prototypes
+are on figma and therefore not present here.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+### Design
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+#### Model
 
-## Developing
+For now, the program uses the repository design pattern for the back-end, which
+allows me to segregate and partition different objects of interest into their
+own respective classes
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Roadmap
 
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+I will try to get as much code through as I can, but due to work and school, I
+estimate this project to complete by the end of this summer
